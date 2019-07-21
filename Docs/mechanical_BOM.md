@@ -23,4 +23,5 @@
 | Button Head Screw M3 x 8mm                 | 6    |                                                              |
 | Rubber Foot 1/2" dia x 1/8" Thk            | 4    | [Amazon](<https://www.amazon.com/Self-Stick-Noise-Dampening-Bumpers-12-pieces/dp/B001WAK6DS>) |
 | Bearing 3mm x 7mm x 3mm (683ZZ)            | 2    | [Amazon](<https://www.amazon.com/gp/product/B00ZHSR2QU>)     |
-| Hobby Servo MG90S                          | 1    | [Amazon](https://www.amazon.com/s?k=mg90)     |
+| Hobby Servo MG90S                          | 1    | [Amazon](https://www.amazon.com/s?k=mg90)                    |
+| 12V 3A Power Supply                        | 1    | [Amazon](https://www.amazon.com/Adapter-100-240V-Transformers-Switching-Wireless/dp/B073WSWT34) |
