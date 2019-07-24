@@ -11,7 +11,7 @@ The machine is controlled by a unique H-bot configuration, that uses a single be
 
 [Here is a link to a video of the plotter in action.](https://www.youtube.com/watch?v=jiwWCrCfXrY&t=27s)
 
-The project is open source (Creative commons 4.0 Attribution - Share Alike) and all the files are in this Githob repo. Assembly instructions will be coming soon. If you have questions, please ask them by opening an issue in this repo.
+The project is open source (Creative commons 4.0 Attribution - Share Alike) and all the files are in this Githob repo. Assembly instructions [are here](https://github.com/bdring/midTbot_esp32/wiki/Assembly-Instructions). If you have questions, please ask them by opening an issue in this repo.
 
 ### Check it out on GrabCad
 
