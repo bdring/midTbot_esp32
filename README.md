@@ -21,7 +21,7 @@ Click on image for interactive viewer in browser.
 
 ### Kits
 
-There currently are no kits for sale. Full kits or controller PCBs may be available in the future.
+There currently are no full kits for sale. [Controller kits are available on Tindie](https://www.tindie.com/products/33366583/midtbot-esp32-v1-controller-kit/).
 
 ### Donation
 
